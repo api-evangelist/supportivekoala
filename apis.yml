@@ -1,0 +1,32 @@
+aid: supportivekoala
+name: Supportivekoala
+description: "Autogenerate images with template"
+url: https://developers.supportivekoala.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Supportivekoala
+    description: "Autogenerate images with template"
+    humanURL: https://developers.supportivekoala.com/
+    baseURL: https://developers.supportivekoala.com/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://developers.supportivekoala.com/
+common:
+  - type: Website
+    url: https://developers.supportivekoala.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
