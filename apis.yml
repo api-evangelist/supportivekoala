@@ -39,7 +39,6 @@ apis:
   - name: Supportivekoala
     description: "Autogenerate images with template"
     humanURL: https://developers.supportivekoala.com/
-    baseURL: https://developers.supportivekoala.com/
     tags:
       - Development
     properties:
